@@ -1,0 +1,5 @@
+Hello warrior!
+At the very beginning, you have to choose items for the battle.
+After you have chosen them, a duel awaits you against the computer.
+The fight takes place as part of a text-based game, where everyone takes turns choosing an action, whether it's attack or defense.
+I wish you success!
