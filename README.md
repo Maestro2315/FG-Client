@@ -45,6 +45,10 @@
 ~~Т.к. атаку применял только человек, а комп только защищался, то у человека hp не изменится, а у компа уменьшится на число, равное 2 - 1.62 = 0.38
 Итого после первого хода у человека останется 100 hp, а у компа 100 - 0.38 = 99.62 hp~~
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xK5UpmynEfJI42NRfe/giphy.gif" width="500"/>
+</div>
+
 👻 Обратить внимание, что если оба выбрали действие "атака", то оба наносят друг другу какой-то урон (считается аналогично тому, как описано выше).
 Если оба выбрали защиту, то по факту ничего не происходит. Очки урона будут у обоих по нулям, поэтому hp за этот ход не поменяется. Так и будут оба весь ход стоять, как дураки, подняв щит или прикрывшись топором или чем там еще.
 
@@ -72,3 +76,33 @@
 Сообщения к коммитам должны соответствовать тому, что реально было сделано, например, "player classes added", "items types implemented" и т.п.
 Все основные действия должны быть залогированы в файл
 Характеристики персонажей/предметов хранить в файлах json/yaml/xml - по вашему выбору. Но главное, чтобы у всех был один и тот же формат (чтобы не было такого, что игроки хранятся в xml, предметы в yaml и т.п. зоопарк)
+
+
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: About Me :
+
+I am a beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: I'm studying Java, my dream is to become backend devoloper.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, i create some easy little projects.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/In-Link-blueviolet)](https://vk.com/a_yashnov)
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
+</div>
+
+
